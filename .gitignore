@@ -10,6 +10,7 @@
 # prog
 cub3D
 libmlx.dylib
+.DS_Store
 
 # Linker output
 *.ilk
