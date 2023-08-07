@@ -3,23 +3,25 @@
 <img height="400" alt="スクリーンショット 2023-08-07 19 43 01" src="https://github.com/tkodai42/cub3d/assets/74499576/a3c9f54f-0be4-4a2a-9199-db63401730c3">
 
 ## USAGE
+
+### mandatory
 ```
 make
 ./cub3D       < map path >
+```
 
+### bonus
+```
 make bonus
-./cub3D       < map path >
+./cub3D       maps/bonus/map_bonus_default.cub
+```
 
+### Christmas bonus
+```
 make xmas
 ./cub3D_xmas  maps/bonus/map_xmas.cub
 ```
 
-
-### EXAMPLES
-```
-./cub3D       maps/bonus/map_bonus_default.cub
-./cub3D_xmas  maps/bonus/map_xmas.cub
-```
 ## Controls(bonus)
  
 | Key | Action |
