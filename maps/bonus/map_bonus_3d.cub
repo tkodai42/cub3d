@@ -1,0 +1,21 @@
+R 800 800
+NO ./texture/pics/mossy1.xpm
+SO ./texture/pics/mossy1.xpm
+WE ./texture/pics/mossy1.xpm
+EA ./texture/pics/mossy1.xpm
+S ./texture/dead_sp_black.xpm
+
+F 220,100,0
+C 0,30,0
+
+11111111111
+10000000001
+10000000001
+10000000001
+10000000001
+10000300001
+10000000001
+10000N00001
+10000000001
+10000330001
+11111111111

@@ -1,0 +1,14 @@
+R 800 800
+NO ./texture/direction/std_wall_n.xpm
+SO ./texture/direction/std_wall_s.xpm
+WE ./texture/direction/std_wall_w.xpm
+G ./texture/direction/std_wall_e.xpm
+S ./texture/barrel.xpm
+C 60,30,40
+F 220,100,0
+11111111111
+10000001221
+10002001001
+12000000001
+1000N000001
+11111111111
