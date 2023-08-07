@@ -1,4 +1,11 @@
+## USAGE
+```
+make
+./cub3D       < map path >
 
+make bonus
+./cub3D       < map path >
+```
 ## Controls(bonus)
  
 | Key | Action |
