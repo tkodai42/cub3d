@@ -27,6 +27,16 @@ void	ft_spawn_point2(t_player *p, t_sp *sp)
 		p->killed_flag--;
 		sp->time = 300;
 	}
+	if (sp->health_point <= 0)
+		sp->tex = find_tex_from_list(p, ENEMY_SP_POINT_N);
+	else if (sp->tex_num == 2)
+		sp->tex = find_tex_from_list(p, ENEMY_SP_POINT1_2);
+	else if (sp->tex_num == 3)
+		sp->tex = find_tex_from_list(p, ENEMY_SP_POINT1_3);
+	else
+		sp->tex = find_tex_from_list(p, ENEMY_SP_POINT1_1);
+
+	/*
 	if (sp->health_point > 0)
 		sp->tex = find_tex_from_list(p, ENEMY_SP_POINT_N);
 	else if (sp->tex_num == 2)
@@ -35,6 +45,7 @@ void	ft_spawn_point2(t_player *p, t_sp *sp)
 		sp->tex = find_tex_from_list(p, ENEMY_SP_POINT1_3);
 	else
 		sp->tex = find_tex_from_list(p, ENEMY_SP_POINT1_1);
+	*/
 }
 
 int		ft_spawn_point(t_player *p, t_sp *sp)
