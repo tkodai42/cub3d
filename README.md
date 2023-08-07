@@ -6,6 +6,12 @@ make
 make bonus
 ./cub3D       < map path >
 ```
+
+
+### EXAMPLES
+```
+./cub3D maps/bonus/map_bonus_1.cub
+```
 ## Controls(bonus)
  
 | Key | Action |
