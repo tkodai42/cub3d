@@ -38,14 +38,13 @@ make bonus
 | <kbd>U</kbd>| fly |
 | <kbd>U</kbd> + <kbd>F</kbd> | increase ammo |
 
-o--------------------------------------------------------o
-| sprites                                                |
-| LOST SOUL from DOOM ripped by HARSH29.                 |
-| CACODEMON from DOOM ripped by HARSH29.                 |
-| cyber demon from DOOM ripped by Falcon Deelta.         |
-| POWER UP from DOOM ripped by Falcon Delta.             |
-| object from DOOM ripped by Falcon Delta.               |
-| projectile from DOOM ripped by Falcon Delta.           |
-| DOOM WEAPON 1 and 2 from DOOM ripped by Falcon Delta.  |
-| Stormtrooper ripped by Crazy lvan.                     |
-o--------------------------------------------------------o
+
+###  sprites                                              
+- LOST SOUL from DOOM ripped by HARSH29.                 
+- CACODEMON from DOOM ripped by HARSH29.                 
+- cyber demon from DOOM ripped by Falcon Deelta.         
+- POWER UP from DOOM ripped by Falcon Delta.             
+- object from DOOM ripped by Falcon Delta.               
+- projectile from DOOM ripped by Falcon Delta.           
+- DOOM WEAPON 1 and 2 from DOOM ripped by Falcon Delta.  
+- Stormtrooper ripped by Crazy lvan.                     
