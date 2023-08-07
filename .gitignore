@@ -9,6 +9,7 @@
 *.swp
 # prog
 cub3D
+cub3D_xmas
 libmlx.dylib
 .DS_Store
 
