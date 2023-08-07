@@ -14,7 +14,7 @@ make bonus
 
 ### EXAMPLES
 ```
-./cub3D maps/bonus/map_bonus_1.cub
+./cub3D maps/bonus/map_bonus_default.cub
 ```
 ## Controls(bonus)
  
