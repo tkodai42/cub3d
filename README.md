@@ -19,7 +19,7 @@ make bonus
 ### Christmas bonus
 ```
 make xmas
-./cub3D_xmas  maps/bonus/map_xmas.cub
+./cub3D_xmas  maps/xmas/map_xmas.cub
 ```
 
 ## Controls(bonus)
