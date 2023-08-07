@@ -297,7 +297,7 @@
 # define SCREEN_MAX_WIDTH 2560
 # define IS_DYLIB 1
 # define IMMORTAL 0
-# define HUD_BLOOD 0
+# define HUD_BLOOD 1
 
 typedef struct			s_line
 {
