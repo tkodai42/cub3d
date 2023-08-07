@@ -22,7 +22,12 @@ make bonus
 | <kbd>4</kbd>| melee |
 | <kbd>ESC</kbd>| EXIT |
 
+## cheat commands
 
+| Key | Action |
+|---|---|
+| <kbd>U</kbd>| fly |
+| <kbd>U</kbd> + <kbd>F</kbd> | increase ammo |
 
 o--------------------------------------------------------o
 | sprites                                                |
