@@ -55,10 +55,11 @@ $(NAME) : $(OBJ_FILES) $(OBJ_M) $(MLX)
 	$(CC) $(OBJ_FILES) $(OBJ_M) $(MLX) $(MLXFLAG) -o $(NAME)
 
 clean:
-	rm -f $(OBJS) $(OBJ_M) $(OBJ_M_B)
+	rm -f $(OBJS) $(OBJ_M) $(OBJ_M_B) $(X_OBJS)
 
 fclean: clean
 	rm -f $(NAME)
+	rm -f $(XMAS_NAME)
 
 re: fclean all
 
