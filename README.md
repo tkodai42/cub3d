@@ -2,6 +2,10 @@
 <img height="400" alt="スクリーンショット 2023-08-07 19 31 28" src="https://github.com/tkodai42/cub3d/assets/74499576/a90f7a3b-35f8-42bd-bffc-c4daf7d4737f">
 <img height="400" alt="スクリーンショット 2023-08-07 19 43 01" src="https://github.com/tkodai42/cub3d/assets/74499576/a3c9f54f-0be4-4a2a-9199-db63401730c3">
 
+
+https://github.com/tkodai42/cub3d/assets/74499576/c14643e8-0611-4fb3-82df-e1993a549b1e
+
+
 ## USAGE
 ```
 make
@@ -9,12 +13,16 @@ make
 
 make bonus
 ./cub3D       < map path >
+
+make xmas
+./cub3D_xmas  maps/bonus/map_xmas.cub
 ```
 
 
 ### EXAMPLES
 ```
-./cub3D maps/bonus/map_bonus_default.cub
+./cub3D       maps/bonus/map_bonus_default.cub
+./cub3D_xmas  maps/bonus/map_xmas.cub
 ```
 ## Controls(bonus)
  
