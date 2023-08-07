@@ -1,16 +1,21 @@
 
-Controls(bonus)
-move        | W/A/S/D
-turn        | arrow key left/right
-jump        | space
-crouch      | shift
-shot        | arrow key up
-sprint      | arrow key down
-display map | M
-interact    | E
-weapons     | 1/2/3
-melee       | 4
-exit game   | ESC
+## Controls(bonus)
+ 
+| Key | Action |
+|---|---|
+| <kbd>W</kbd>, <kbd>A</kbd>, <kbd>S</kbd>, <kbd>D</kbd> | MOVE |
+| <kbd>E</kbd>| interact |
+| <kbd>←</kbd>, <kbd>→</kbd>| TURN |
+| <kbd>SP</kbd>| JUMP |
+| <kbd>shift</kbd>| CROUCH |
+| <kbd>↓</kbd>| SPRINT |
+| <kbd>↑</kbd>| SHOT |
+| <kbd>M</kbd>| display map |
+| <kbd>1</kbd>, <kbd>2</kbd>, <kbd>3</kbd> | weapons |
+| <kbd>4</kbd>| melee |
+| <kbd>ESC</kbd>| EXIT |
+
+
 
 o--------------------------------------------------------o
 | sprites                                                |
