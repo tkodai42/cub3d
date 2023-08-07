@@ -52,7 +52,8 @@ int		put_sp_to_map(t_player *p, t_sp *sp)
 	sp_get_fixed_r_h_w(p, sp);
 	get_edge(p, line_pos, sp);
 	sp_is_valid(p, sp);
-	if (OMIT_LINE != 1)
+	//if (OMIT_LINE != 1)
+	if (1)
 		put_circle(p, sp->x_pos, sp->y_pos, sp->inside_aiming == 1 ?
 				RED : WHITE);
 	return (0);

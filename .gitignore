@@ -6,6 +6,7 @@
 *.ko
 *.obj
 *.elf
+*.swp
 # prog
 cub3D
 libmlx.dylib

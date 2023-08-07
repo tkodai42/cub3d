@@ -21,7 +21,8 @@ int		put_circle(t_player *p, int x, int y, int color)
 
 	circle_range = GRID / 8;
 	angle = 0;
-	if (OMIT_LINE != 1)
+	//if (OMIT_LINE != 1)
+	if (1)
 	{
 		while (angle <= PI * 2)
 		{

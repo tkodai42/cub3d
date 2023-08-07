@@ -289,7 +289,7 @@
 # define BONUS_DARKER		1
 # define DARKER_RATIO		5
 # define ONLY_SKYBOX		0
-# define OMIT_LINE			0
+# define OMIT_LINE			1
 # define SKYBOX_SAND		0
 # define FOV_BASED_PI (PI * 2/ (360 / FOV))
 # define FOV_LR (PI / (360 / FOV))

@@ -128,6 +128,8 @@ int		put_rays(t_player *p)
 //
 	win_x_pos = 0;
 	ray_angle = p->angle - FOV_LR;
+	if (OMIT_LINE != 1 || p->is_bonus)
+		put_fov_rays(p, p->angle + FOV_LR);
 	p->rayc_win_y = 0;
 	p->rayc_win_x = 0;
 	p->win_buf_index = 0;
