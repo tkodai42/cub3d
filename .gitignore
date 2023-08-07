@@ -8,6 +8,7 @@
 *.elf
 # prog
 cub3D
+libmlx.dylib
 
 # Linker output
 *.ilk
