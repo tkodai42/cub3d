@@ -44,8 +44,9 @@ int	ft_reflect_key_bonus(t_player *p)
 	if (p->key->up == 1 || p->key->shot >= 1)
 	{
 		ft_shot(p);
-		if (p->key->shot == 1)
-			tmp_bullet(p);
+		// player blaster
+//		if (p->key->shot == 1)
+//			tmp_bullet(p);
 	}
 	if (p->key->m == 1)
 		ft_map_on(p);
