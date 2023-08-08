@@ -123,7 +123,7 @@ choose wisely but be careful to don’t waste your time!
 
 ## Christmas
 
-> "Ain't 42 hell?"
+> Ain't 42 hell?
 
 <img width="300" alt="画面収録_2023-08-07_22_39_42_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/911c6f87-13cb-4db4-9f22-890cc369d3e1">
 <img width="300" alt="画面収録_2023-08-08_15_39_15_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/82c1a686-7938-437b-bc5b-bf9be48b483e">
