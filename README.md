@@ -92,10 +92,10 @@ choose wisely but be careful to don’t waste your time!
 ![画面収録_2023-08-08_13_04_35_AdobeExpress](https://github.com/tkodai42/cub3d/assets/74499576/43a2c4c7-6607-4688-ac8e-e16c17ff9c8b)
 
 - ## ✅ More items in the maze.
-![画面収録_2023-08-08_13_13_59_AdobeExpress](https://github.com/tkodai42/cub3d/assets/74499576/9b31843b-d603-4864-9b7b-d2f4177b0b53)
+<img width="300" alt="画面収録_2023-08-08_13_13_59_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/9b31843b-d603-4864-9b7b-d2f4177b0b53">
 <img width="300" alt="スクリーンショット 2023-08-08 13 21 14" src="https://github.com/tkodai42/cub3d/assets/74499576/cb030df5-eaa8-4aab-b4e9-af118379b325">
 <img width="300" alt="スクリーンショット 2023-08-08 13 22 22" src="https://github.com/tkodai42/cub3d/assets/74499576/3e7d0656-beb1-4151-b879-37d7331523a1">
-![画面収録_2023-08-08_13_17_11_AdobeExpress](https://github.com/tkodai42/cub3d/assets/74499576/2391d130-735b-4eba-9864-530a18431a6e)
+<img width="300" alt="画面収録_2023-08-08_13_17_11_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/2391d130-735b-4eba-9864-530a18431a6e">
 
 - ## ✅ Object collisions. 
 - ## ✅ Earning points and/or losing life by picking up objects/traps. 
@@ -105,12 +105,11 @@ choose wisely but be careful to don’t waste your time!
 - ## ✅ Secret doors.
 ![画面収録_2023-08-08_13_32_46_AdobeExpress](https://github.com/tkodai42/cub3d/assets/74499576/aea5a5ef-f9e9-4b20-bcf7-e01d48454b6d)
 
-- ## ✅ Animations of a gun shoot or animated sprite. 
-![画面収録_2023-08-08_13_30_09_AdobeExpress](https://github.com/tkodai42/cub3d/assets/74499576/53ae534a-4ed2-4815-9498-0bcc6029eb09)
-![画面収録_2023-08-08_13_43_10_AdobeExpress](https://github.com/tkodai42/cub3d/assets/74499576/c727af35-8440-4ab8-9685-be9a9f67548f)
-![画面収録_2023-08-08_13_45_00_AdobeExpress](https://github.com/tkodai42/cub3d/assets/74499576/f33107e3-6916-44d8-92ab-86cda5b5e932)
-![画面収録_2023-08-08_13_46_21_AdobeExpress](https://github.com/tkodai42/cub3d/assets/74499576/be2b8b0d-0b1a-4c30-97a8-f30208c04e3c)
-
+- ## ✅ Animations of a gun shoot or animated sprite.
+<img width="300" alt="画面収録_2023-08-08_13_30_09_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/53ae534a-4ed2-4815-9498-0bcc6029eb09">
+<img width="300" alt="画面収録_2023-08-08_13_43_10_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/c727af35-8440-4ab8-9685-be9a9f67548f">
+<img width="300" alt="画面収録_2023-08-08_13_45_00_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/f33107e3-6916-44d8-92ab-86cda5b5e932">
+<img width="300" alt="画面収録_2023-08-08_13_46_21_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/be2b8b0d-0b1a-4c30-97a8-f30208c04e3c">
 
 - ## ✅ Several levels.
 ![Jump_or_crouch](https://github.com/tkodai42/cub3d/assets/74499576/0fbf0424-858a-400b-af0f-67b546bdfa50)
