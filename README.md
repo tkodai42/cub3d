@@ -1,8 +1,8 @@
 # Cub3D
 
-<img height="400" alt="スクリーンショット 2023-08-07 19 31 28" src="https://github.com/tkodai42/cub3d/assets/74499576/a90f7a3b-35f8-42bd-bffc-c4daf7d4737f">
-<img height="400" alt="スクリーンショット 2023-08-07 19 43 01" src="https://github.com/tkodai42/cub3d/assets/74499576/a3c9f54f-0be4-4a2a-9199-db63401730c3">
-<img width="300" alt="画面収録_2023-08-08_15_56_41_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/d773e525-326d-41ae-b4a5-8976c9d58116">
+<img height="400" alt="スクリーンショット 2023-08-07 19 31 28" src="https://github.com/tkodai42/cub3d/assets/74499576/ac09223c-4901-4cc0-892f-2f2ec9f10c75">
+<img height="400" alt="スクリーンショット 2023-08-07 19 43 01" src="https://github.com/tkodai42/cub3d/assets/74499576/799f324f-f37f-4c25-adf0-e08d479f3c23">
+<img width="300" alt="画面収録_2023-08-08_15_56_41_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/936c3289-a700-46af-8c43-1a5349d4a5ec">
 
 ## USAGE
 
@@ -76,47 +76,47 @@ choose wisely but be careful to don’t waste your time!
 <img width="300" alt="" src="">
 
 - ## ✅ Wall collisions.
- <img width="300" alt="Wall_collisions" src="https://github.com/tkodai42/cub3d/assets/74499576/eda30bf8-d65d-4d25-81b8-ed9b1758c21c">
+ <img width="300" alt="Wall_collisions" src="https://github.com/tkodai42/cub3d/assets/74499576/31dbd734-a69f-495d-a426-bbb3e877698d">
 
 - ## ✅ A skybox.
-<img width="300" alt="skybox" src="https://github.com/tkodai42/cub3d/assets/74499576/9648c8db-be89-4ae1-990f-d812c7591f14">
+<img width="300" alt="skybox" src="https://github.com/tkodai42/cub3d/assets/74499576/d8bcef75-774e-44c5-aacf-880350927c50">
 
 - ## ✅ Floor and/or ceiling texture. 
 - ## ✅ An HUD.
-<img width="300" alt="HUD" src="https://github.com/tkodai42/cub3d/assets/74499576/9793e578-85ea-4cb2-bf76-88f58bfa13bf">
+<img width="300" alt="HUD" src="https://github.com/tkodai42/cub3d/assets/74499576/0ce7dcfe-1883-4564-929c-1090495eee7e">
 
 - ## ❌ Ability to look up and down. 
 - ## ✅ Jump or crouch.
-<img width="300" alt="画面収録_2023-08-08_12_54_14_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/3f62588e-ee2d-426a-8294-9818d76509e9">
+<img width="300" alt="画面収録_2023-08-08_12_54_14_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/11e6c0c8-6e0b-4795-8d53-de07878d4841">
 
 - ## ✅ A distance related shadow effect. (muzzle flash)
-<img width="300" alt="画面収録_2023-08-08_12_59_58_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/c80dd998-0e2c-4acc-9ff2-545710ccaac4">
+<img width="300" alt="画面収録_2023-08-08_12_59_58_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/3299cd98-a439-416b-bd6b-1cb06d5511ac">
 
 - ## ✅ Life bar. 
-<img width="300" alt="画面収録_2023-08-08_13_04_35_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/43a2c4c7-6607-4688-ac8e-e16c17ff9c8b">
+<img width="300" alt="画面収録_2023-08-08_13_04_35_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/6755f4c5-f491-476a-9fe2-a85940793466">
 
 - ## ✅ More items in the maze.
-<img width="300" alt="画面収録_2023-08-08_13_13_59_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/9b31843b-d603-4864-9b7b-d2f4177b0b53">
-<img width="300" alt="スクリーンショット 2023-08-08 13 21 14" src="https://github.com/tkodai42/cub3d/assets/74499576/cb030df5-eaa8-4aab-b4e9-af118379b325">
-<img width="300" alt="スクリーンショット 2023-08-08 13 22 22" src="https://github.com/tkodai42/cub3d/assets/74499576/3e7d0656-beb1-4151-b879-37d7331523a1">
-<img width="300" alt="画面収録_2023-08-08_13_17_11_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/2391d130-735b-4eba-9864-530a18431a6e">
+<img width="300" alt="画面収録_2023-08-08_13_13_59_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/124d440b-e708-498c-bb45-d57313203d72">
+<img width="300" alt="スクリーンショット 2023-08-08 13 21 14" src="https://github.com/tkodai42/cub3d/assets/74499576/0b98111e-e469-4fcb-9c08-82e47874c2b0">
+<img width="300" alt="スクリーンショット 2023-08-08 13 22 22" src="https://github.com/tkodai42/cub3d/assets/74499576/c3c0c52e-0bab-4eae-b742-5735edeed2aa">
+<img width="300" alt="画面収録_2023-08-08_13_17_11_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/bdd23863-1c89-4427-8e0c-3d8fc7b8f147">
 
 - ## ✅ Object collisions. 
 - ## ✅ Earning points and/or losing life by picking up objects/traps. 
 - ## ✅ Doors which can open and close. 
-<img width="300" alt="画面収録_2023-08-08_13_27_08_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/927e2e5d-2676-41bb-88d2-bec8042788e0">
+<img width="300" alt="画面収録_2023-08-08_13_27_08_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/aeabd3f0-5d9e-405f-a0fc-b83792c95cfb">
 
 - ## ✅ Secret doors.
-<img width="300" alt="画面収録_2023-08-08_13_32_46_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/aea5a5ef-f9e9-4b20-bcf7-e01d48454b6d">
+<img width="300" alt="画面収録_2023-08-08_13_32_46_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/0663ace6-1e0d-4cf3-8db1-9f69d5d6f21a">
 
 - ## ✅ Animations of a gun shoot or animated sprite.
-<img width="300" alt="画面収録_2023-08-08_13_30_09_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/53ae534a-4ed2-4815-9498-0bcc6029eb09">
-<img width="300" alt="画面収録_2023-08-08_13_43_10_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/c727af35-8440-4ab8-9685-be9a9f67548f">
-<img width="300" alt="画面収録_2023-08-08_13_45_00_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/f33107e3-6916-44d8-92ab-86cda5b5e932">
-<img width="300" alt="画面収録_2023-08-08_13_46_21_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/be2b8b0d-0b1a-4c30-97a8-f30208c04e3c">
+<img width="300" alt="画面収録_2023-08-08_13_30_09_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/8c881f61-4f14-49b8-9f24-b41a6d04bb25">
+<img width="300" alt="画面収録_2023-08-08_13_43_10_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/9d8db8ae-ef67-47ad-ab8c-4f6159a88ef5">
+<img width="300" alt="画面収録_2023-08-08_13_45_00_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/f5ac7d55-f8af-4410-b044-b7e7aa1364ef">
+<img width="300" alt="画面収録_2023-08-08_13_46_21_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/3830f557-a8a5-4334-8f31-c4d746d940cc">
 
 - ## ✅ Several levels.
-<img width="300" alt="画面収録_2023-08-08_12_54_14_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/3f62588e-ee2d-426a-8294-9818d76509e9">
+<img width="300" alt="画面収録_2023-08-08_12_54_14_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/8a768807-a64f-4482-8d82-19d085cae012">
 
 - ## ❌ Sounds and music. 
 - ## ❌ Rotate the point of view with the mouse. 
@@ -126,9 +126,10 @@ choose wisely but be careful to don’t waste your time!
 
 > Ain't 42 hell?
 
-<img width="300" alt="画面収録_2023-08-07_22_39_42_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/911c6f87-13cb-4db4-9f22-890cc369d3e1">
-<img width="300" alt="画面収録_2023-08-08_15_39_15_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/82c1a686-7938-437b-bc5b-bf9be48b483e">
-<img width="300" alt="画面収録_2023-08-08_15_49_19_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/d6c90f81-dcf1-4410-898b-413141309fbe">
+<img width="300" alt="画面収録_2023-08-07_22_39_42_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/fe6a550f-e834-49e3-8e18-cc3e4f598878">
+<img width="300" alt="画面収録_2023-08-08_15_39_15_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/98136ab6-616d-434e-b7b6-88c87a73e66c">
+<img width="300" alt="画面収録_2023-08-08_15_49_19_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/05aceadf-193f-43fb-8412-e1203e46d494">
+
 
 ###  sprites                                              
 - LOST SOUL from DOOM ripped by HARSH29.                 
