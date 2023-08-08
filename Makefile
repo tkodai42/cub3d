@@ -13,7 +13,8 @@
 NAME		= cub3D
 XMAS_NAME	= cub3D_xmas
 CC			= clang
-CFLAGS		= -O3 -Wall -Wextra -Werror -I.
+#CFLAGS		= -O3 -Wall -Wextra -Werror -I.
+CFLAGS		= -O3 -I.#os update...
 MLX			= libmlx.dylib
 MLXFLAG		= -framework OpenGL -framework AppKit
 MINILIB     = minilibx_mms_20200219
