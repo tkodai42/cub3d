@@ -1,4 +1,5 @@
 # Cub3D
+***runs on macOS only***
 
 <img height="400" alt="スクリーンショット 2023-08-07 19 31 28" src="https://github.com/tkodai42/cub3d/assets/74499576/ac09223c-4901-4cc0-892f-2f2ec9f10c75">
 <img height="400" alt="スクリーンショット 2023-08-07 19 43 01" src="https://github.com/tkodai42/cub3d/assets/74499576/799f324f-f37f-4c25-adf0-e08d479f3c23">
