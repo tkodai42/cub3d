@@ -29,7 +29,7 @@ make xmas
 | <kbd>W</kbd>, <kbd>A</kbd>, <kbd>S</kbd>, <kbd>D</kbd> | move |
 | <kbd>E</kbd>| interact |
 | <kbd>←</kbd>, <kbd>→</kbd>| turn |
-| <kbd>SP</kbd>| jump |
+| <kbd>space</kbd>| jump |
 | <kbd>shift</kbd>| crouch |
 | <kbd>↓</kbd>| sprint |
 | <kbd>↑</kbd>| shot |
