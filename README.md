@@ -26,17 +26,17 @@ make xmas
  
 | Key | Action |
 |---|---|
-| <kbd>W</kbd>, <kbd>A</kbd>, <kbd>S</kbd>, <kbd>D</kbd> | MOVE |
+| <kbd>W</kbd>, <kbd>A</kbd>, <kbd>S</kbd>, <kbd>D</kbd> | move |
 | <kbd>E</kbd>| interact |
-| <kbd>←</kbd>, <kbd>→</kbd>| TURN |
-| <kbd>SP</kbd>| JUMP |
-| <kbd>shift</kbd>| CROUCH |
-| <kbd>↓</kbd>| SPRINT |
-| <kbd>↑</kbd>| SHOT |
+| <kbd>←</kbd>, <kbd>→</kbd>| turn |
+| <kbd>SP</kbd>| jump |
+| <kbd>shift</kbd>| crouch |
+| <kbd>↓</kbd>| sprint |
+| <kbd>↑</kbd>| shot |
 | <kbd>M</kbd>| display map |
 | <kbd>1</kbd>, <kbd>2</kbd>, <kbd>3</kbd> | weapons |
 | <kbd>4</kbd>| melee |
-| <kbd>ESC</kbd>| EXIT |
+| <kbd>ESC</kbd>| exit |
 
 ## cheat commands
 
@@ -45,6 +45,50 @@ make xmas
 | <kbd>U</kbd>| fly |
 | <kbd>U</kbd> + <kbd>F</kbd> | increase ammo |
 
+## Bonus List     
+
+- ✅ Wall collisions. 
+- ✅ A skybox. 
+- ✅ Floor and/or ceiling texture. 
+- ✅ An HUD. 
+- ❌ Ability to look up and down. 
+- ✅ Jump or crouch. 
+- ✅ A distance related shadow effect. 
+- ✅ Life bar. 
+- ✅ More items in the maze.
+- ✅ Object collisions. 
+- ✅ Earning points and/or losing life by picking up objects/traps. 
+- ✅ Doors which can open and close. 
+- ✅ Secret doors. 
+- ✅ Animations of a gun shoot or animated sprite. 
+- ✅ Several levels. 
+- ❌ Sounds and music. 
+- ❌ Rotate the point of view with the mouse. 
+- ✅ Weapons and bad guys to fight!
+
+15/18
+```
+To earn all bonus points you need to validate at least 14 of them, so
+choose wisely but be careful to don’t waste your time!
+```
+- ## ✅ Wall collisions.
+- ## ✅ A skybox. 
+- ## ✅ Floor and/or ceiling texture. 
+- ## ✅ An HUD. 
+- ## ❌ Ability to look up and down. 
+- ## ✅ Jump or crouch. 
+- ## ✅ A distance related shadow effect. 
+- ## ✅ Life bar. 
+- ## ✅ More items in the maze.
+- ## ✅ Object collisions. 
+- ## ✅ Earning points and/or losing life by picking up objects/traps. 
+- ## ✅ Doors which can open and close. 
+- ## ✅ Secret doors. 
+- ## ✅ Animations of a gun shoot or animated sprite. 
+- ## ✅ Several levels. 
+- ## ❌ Sounds and music. 
+- ## ❌ Rotate the point of view with the mouse. 
+- ## ✅ Weapons and bad guys to fight!
 
 ###  sprites                                              
 - LOST SOUL from DOOM ripped by HARSH29.                 
