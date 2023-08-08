@@ -85,7 +85,7 @@ choose wisely but be careful to don’t waste your time!
 
 - ## ❌ Ability to look up and down. 
 - ## ✅ Jump or crouch.
-<img width="300" alt="Jump_or_crouch" src="https://github.com/tkodai42/cub3d/assets/74499576/0fbf0424-858a-400b-af0f-67b546bdfa50">
+<img width="300" alt="画面収録_2023-08-08_12_54_14_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/3f62588e-ee2d-426a-8294-9818d76509e9">
 
 - ## ✅ A distance related shadow effect. (muzzle flash)
 <img width="300" alt="画面収録_2023-08-08_12_59_58_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/c80dd998-0e2c-4acc-9ff2-545710ccaac4">
@@ -114,7 +114,7 @@ choose wisely but be careful to don’t waste your time!
 <img width="300" alt="画面収録_2023-08-08_13_46_21_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/be2b8b0d-0b1a-4c30-97a8-f30208c04e3c">
 
 - ## ✅ Several levels.
-<img width="300" alt="Jump_or_crouch" src="https://github.com/tkodai42/cub3d/assets/74499576/0fbf0424-858a-400b-af0f-67b546bdfa50">
+<img width="300" alt="画面収録_2023-08-08_12_54_14_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/3f62588e-ee2d-426a-8294-9818d76509e9">
 
 - ## ❌ Sounds and music. 
 - ## ❌ Rotate the point of view with the mouse. 
