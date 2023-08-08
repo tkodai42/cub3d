@@ -107,6 +107,10 @@ choose wisely but be careful to don’t waste your time!
 
 - ## ✅ Animations of a gun shoot or animated sprite. 
 ![画面収録_2023-08-08_13_30_09_AdobeExpress](https://github.com/tkodai42/cub3d/assets/74499576/53ae534a-4ed2-4815-9498-0bcc6029eb09)
+![画面収録_2023-08-08_13_43_10_AdobeExpress](https://github.com/tkodai42/cub3d/assets/74499576/c727af35-8440-4ab8-9685-be9a9f67548f)
+![画面収録_2023-08-08_13_45_00_AdobeExpress](https://github.com/tkodai42/cub3d/assets/74499576/f33107e3-6916-44d8-92ab-86cda5b5e932)
+![画面収録_2023-08-08_13_46_21_AdobeExpress](https://github.com/tkodai42/cub3d/assets/74499576/be2b8b0d-0b1a-4c30-97a8-f30208c04e3c)
+
 
 - ## ✅ Several levels.
 ![Jump_or_crouch](https://github.com/tkodai42/cub3d/assets/74499576/0fbf0424-858a-400b-af0f-67b546bdfa50)
