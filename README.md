@@ -123,7 +123,7 @@ choose wisely but be careful to don’t waste your time!
 
 ## Christmas
 
->「リア充みな殺すべし……慈悲は無い……お前も殺す、インガオホー」「何……？」クリスマスアベックはカップルスレイヤーの口をついて出たハイクに眉をひそめた。異様で醜く、定型を外れたハイクだ。そして辞世のテーマが何一つ含まれていない事を訝った。
+> "Ain't 42 hell?"
 
 <img width="300" alt="画面収録_2023-08-07_22_39_42_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/911c6f87-13cb-4db4-9f22-890cc369d3e1">
 <img width="300" alt="画面収録_2023-08-08_15_39_15_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/82c1a686-7938-437b-bc5b-bf9be48b483e">
