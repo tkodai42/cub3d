@@ -6,7 +6,7 @@
 #    By: tkodai <marvin@42.fr>                      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/08/15 20:14:44 by tkodai            #+#    #+#              #
-#    Updated: 2020/12/10 17:52:01 by tkodai           ###   ########.fr        #
+#    Updated: 2023/08/09 20:55:16 by tkodai           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -59,6 +59,7 @@ clean:
 	rm -f $(OBJS) $(OBJ_M) $(OBJ_M_B) $(X_OBJS)
 
 fclean: clean
+	$(MAKE) -C $(MINILIB) clean
 	rm -f $(NAME)
 	rm -f $(XMAS_NAME)
 
