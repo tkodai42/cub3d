@@ -299,6 +299,7 @@
 # define IS_DYLIB 1
 # define IMMORTAL 0
 # define HUD_BLOOD 1
+# define FRAME_RATE 27
 
 typedef struct			s_line
 {

@@ -69,8 +69,8 @@ void	ft_msleep(long start)
 {
 	long	time;
 
-	//FRAME RATIO
-	time = 28;
+	//FRAME RATE
+	time = FRAME_RATE;
 	while (ft_gettimeofmillisec() < start + time)
 	{
 		usleep(50);
