@@ -19,6 +19,7 @@
 # include <stdlib.h>
 # include <fcntl.h>
 # include <signal.h>
+# include <sys/time.h>
 # include "mlx.h"
 # define PI				3.1415926534
 # define GRID			64
