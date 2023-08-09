@@ -19,6 +19,7 @@
 # include <stdlib.h>
 # include <fcntl.h>
 # include <signal.h>
+# include <sys/time.h>
 # include "mlx.h"
 # define PI				3.1415926534
 # define GRID			64
@@ -298,6 +299,7 @@
 # define IS_DYLIB 1
 # define IMMORTAL 0
 # define HUD_BLOOD 1
+# define FRAME_RATE 27
 
 typedef struct			s_line
 {

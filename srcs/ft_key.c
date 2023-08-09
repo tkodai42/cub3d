@@ -57,8 +57,31 @@ int	ft_reflect_key_bonus(t_player *p)
 	return (0);
 }
 
+long	ft_gettimeofmillisec(void)
+{
+	struct timeval	time;
+
+	gettimeofday(&time, NULL);
+	return (time.tv_sec * 1000 + time.tv_usec / 1000);
+}
+
+void	ft_msleep(long start)
+{
+	long	time;
+
+	//FRAME RATE
+	time = FRAME_RATE;
+	while (ft_gettimeofmillisec() < start + time)
+	{
+		usleep(50);
+	}
+}
+
 int	ft_reflect_key(t_player *p)
 {
+	//get start time
+	long	start = ft_gettimeofmillisec();
+
 	if (p->key->w == 1)
 		ft_move(p, 1);
 	if (p->key->s == 1)
@@ -73,5 +96,7 @@ int	ft_reflect_key(t_player *p)
 		ft_turn(p, -1);
 	ft_reflect_key_bonus(p);
 	ft_cub3d3(p);
+
+	ft_msleep(start);
 	return (0);
 }
