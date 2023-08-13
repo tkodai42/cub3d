@@ -97,6 +97,7 @@ int	ft_reflect_key(t_player *p)
 	ft_reflect_key_bonus(p);
 	ft_cub3d3(p);
 
-	ft_msleep(start);
+	if (p->is_bonus == 1)
+		ft_msleep(start);
 	return (0);
 }
