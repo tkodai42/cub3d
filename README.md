@@ -87,8 +87,9 @@ choose wisely but be careful to don’t waste your time!
 <img width="300" alt="HUD" src="https://github.com/tkodai42/cub3d/assets/74499576/0ce7dcfe-1883-4564-929c-1090495eee7e">
 
 - ## ❌ Ability to look up and down. 
-- ## ✅ Jump or crouch.
+- ## ✅ Jump or crouch. (and sprint)
 <img width="300" alt="画面収録_2023-08-08_12_54_14_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/11e6c0c8-6e0b-4795-8d53-de07878d4841">
+<img width="300" alt="画面収録_2023-08-13_22_44_46_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/fd67bdb7-65f4-467f-98d7-c8bbf91e35a0">
 
 - ## ✅ A distance related shadow effect. (muzzle flash)
 <img width="300" alt="画面収録_2023-08-08_12_59_58_AdobeExpress" src="https://github.com/tkodai42/cub3d/assets/74499576/3299cd98-a439-416b-bd6b-1cb06d5511ac">
