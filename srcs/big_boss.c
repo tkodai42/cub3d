@@ -23,9 +23,9 @@ int		facing_player(t_player *p, t_sp *boss)
 	while (face_boss_angle > PI)
 		face_boss_angle = face_boss_angle - PI * 2;
 	if (face_boss_angle > 0)
-		boss->move_angle += PI / 128 * -1;
+		boss->move_angle += PI / 128 / 2 * -1;
 	else
-		boss->move_angle += PI / 128;
+		boss->move_angle += PI / 128 / 2;
 	return (0);
 }
 
