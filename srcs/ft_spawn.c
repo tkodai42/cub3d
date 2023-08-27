@@ -14,7 +14,8 @@
 
 void	ft_spawn_point2(t_player *p, t_sp *sp)
 {
-	if (p->boss_spawn == 1 && sp->time == 0 && p->kill_count > 15)
+	if (p->boss_spawn == 1 && sp->time == 0) //p->kill_count > 15)
+	//if (p->boss_spawn == 1 && sp->time == 0 && p->kill_count > 15)
 	{
 		add_list(p, TEX_BOSS_1, sp->x_pos, sp->y_pos);
 		sp->time = 300;
